@@ -22,3 +22,4 @@ This matrix includes volumes for income, expenses, and net flow to provide a com
 ![image](https://github.com/user-attachments/assets/47ea00b2-0719-45f3-b235-5eba6d2d63ff)
 
 **Link:**
+https://github.com/GratsiaMariia/power-bi-educational-project/blob/main/Finance.pbix
